@@ -54,7 +54,7 @@ Schedule (Deep Learning 1, edition 2022)
 +------------------------------------------+---------------------------------------------------------------+
 
 如何运行notebooks
-----------------
+-----------------------------------
 
 在这个网站上，您会发现导出为 HTML 格式的笔记本，以便您可以从任何您喜欢的设备上阅读它们。
 但是，我们建议您也尝试一下并自己运行它们。 我们推荐三种主要的笔记本运行方式：
@@ -110,62 +110,62 @@ Schedule (Deep Learning 1, edition 2022)
 
    tutorial_notebooks/tutorial1/Lisa_Cluster
    tutorial_notebooks/guide2/Research_Projects
-   tutorial_notebooks/guide3/Debugging_PyTorch
-   tutorial_notebooks/guide4/Research_Projects_with_JAX
+..    tutorial_notebooks/guide3/Debugging_PyTorch
+..    tutorial_notebooks/guide4/Research_Projects_with_JAX
 
-.. toctree::
-   :caption: Deep Learning 1 (PyTorch)
-   :maxdepth: 2
+.. .. toctree::
+..    :caption: Deep Learning 1 (PyTorch)
+..    :maxdepth: 2
 
-   tutorial_notebooks/tutorial2/Introduction_to_PyTorch
-   tutorial_notebooks/tutorial3/Activation_Functions
-   tutorial_notebooks/tutorial4/Optimization_and_Initialization
-   tutorial_notebooks/tutorial5/Inception_ResNet_DenseNet
-   tutorial_notebooks/tutorial6/Transformers_and_MHAttention
-   tutorial_notebooks/tutorial7/GNN_overview
-   tutorial_notebooks/tutorial8/Deep_Energy_Models
-   tutorial_notebooks/tutorial9/AE_CIFAR10
-   tutorial_notebooks/tutorial10/Adversarial_Attacks
-   tutorial_notebooks/tutorial11/NF_image_modeling
-   tutorial_notebooks/tutorial12/Autoregressive_Image_Modeling
-   tutorial_notebooks/tutorial15/Vision_Transformer
-   tutorial_notebooks/tutorial16/Meta_Learning
-   tutorial_notebooks/tutorial17/SimCLR
+..    tutorial_notebooks/tutorial2/Introduction_to_PyTorch
+..    tutorial_notebooks/tutorial3/Activation_Functions
+..    tutorial_notebooks/tutorial4/Optimization_and_Initialization
+..    tutorial_notebooks/tutorial5/Inception_ResNet_DenseNet
+..    tutorial_notebooks/tutorial6/Transformers_and_MHAttention
+..    tutorial_notebooks/tutorial7/GNN_overview
+..    tutorial_notebooks/tutorial8/Deep_Energy_Models
+..    tutorial_notebooks/tutorial9/AE_CIFAR10
+..    tutorial_notebooks/tutorial10/Adversarial_Attacks
+..    tutorial_notebooks/tutorial11/NF_image_modeling
+..    tutorial_notebooks/tutorial12/Autoregressive_Image_Modeling
+..    tutorial_notebooks/tutorial15/Vision_Transformer
+..    tutorial_notebooks/tutorial16/Meta_Learning
+..    tutorial_notebooks/tutorial17/SimCLR
 
-.. toctree::
-   :caption: Deep Learning 1 (JAX+Flax)
-   :maxdepth: 2
+.. .. toctree::
+..    :caption: Deep Learning 1 (JAX+Flax)
+..    :maxdepth: 2
 
-   tutorial_notebooks/JAX/tutorial2/Introduction_to_JAX
-   tutorial_notebooks/JAX/tutorial3/Activation_Functions
-   tutorial_notebooks/JAX/tutorial4/Optimization_and_Initialization
-   tutorial_notebooks/JAX/tutorial5/Inception_ResNet_DenseNet
-   tutorial_notebooks/JAX/tutorial6/Transformers_and_MHAttention
-   tutorial_notebooks/JAX/tutorial7/GNN_overview
-   tutorial_notebooks/JAX/tutorial9/AE_CIFAR10
-   tutorial_notebooks/JAX/tutorial11/NF_image_modeling
-   tutorial_notebooks/JAX/tutorial12/Autoregressive_Image_Modeling
-   tutorial_notebooks/JAX/tutorial15/Vision_Transformer
-   tutorial_notebooks/JAX/tutorial17/SimCLR
+..    tutorial_notebooks/JAX/tutorial2/Introduction_to_JAX
+..    tutorial_notebooks/JAX/tutorial3/Activation_Functions
+..    tutorial_notebooks/JAX/tutorial4/Optimization_and_Initialization
+..    tutorial_notebooks/JAX/tutorial5/Inception_ResNet_DenseNet
+..    tutorial_notebooks/JAX/tutorial6/Transformers_and_MHAttention
+..    tutorial_notebooks/JAX/tutorial7/GNN_overview
+..    tutorial_notebooks/JAX/tutorial9/AE_CIFAR10
+..    tutorial_notebooks/JAX/tutorial11/NF_image_modeling
+..    tutorial_notebooks/JAX/tutorial12/Autoregressive_Image_Modeling
+..    tutorial_notebooks/JAX/tutorial15/Vision_Transformer
+..    tutorial_notebooks/JAX/tutorial17/SimCLR
 
-.. toctree::
-   :caption: Deep Learning 2
-   :maxdepth: 2
+.. .. toctree::
+..    :caption: Deep Learning 2
+..    :maxdepth: 2
 
-   tutorial_notebooks/DL2/Geometric_deep_learning/tutorial1_regular_group_convolutions
-   tutorial_notebooks/DL2/Geometric_deep_learning/tutorial2_steerable_cnns
-   tutorial_notebooks/DL2/deep_probabilistic_models_I/tutorial_1.ipynb
-   tutorial_notebooks/DL2/deep_probabilistic_models_II/tutorial_2a.ipynb
-   tutorial_notebooks/DL2/deep_probabilistic_models_II/tutorial_2b.ipynb
-   tutorial_notebooks/DL2/Advanced_Generative_Models/Normalizing_flows/advancednormflow.ipynb
-   tutorial_notebooks/DL2/High-performant_DL/hyperparameter_search/hpdlhyperparam.ipynb
-   tutorial_notebooks/DL2/High-performant_DL/Multi_GPU/hpdlmultigpu.ipynb
-   tutorial_notebooks/DL2/Bayesian_Neural_Networks/Complete_DLII_BNN_2_2.ipynb
-   tutorial_notebooks/DL2/Dynamical_Neural_Networks/Complete_DNN_2_1.ipynb
-   tutorial_notebooks/DL2/Dynamical_Neural_Networks/Complete_DNN_2_2.ipynb
-   tutorial_notebooks/DL2/Dynamical_systems/dynamical_systems_neural_odes.ipynb
-   tutorial_notebooks/DL2/sampling/introduction.ipynb
-   tutorial_notebooks/DL2/sampling/subsets.ipynb
-   tutorial_notebooks/DL2/sampling/permutations.ipynb
-   tutorial_notebooks/DL2/sampling/graphs.ipynb
+..    tutorial_notebooks/DL2/Geometric_deep_learning/tutorial1_regular_group_convolutions
+..    tutorial_notebooks/DL2/Geometric_deep_learning/tutorial2_steerable_cnns
+..    tutorial_notebooks/DL2/deep_probabilistic_models_I/tutorial_1.ipynb
+..    tutorial_notebooks/DL2/deep_probabilistic_models_II/tutorial_2a.ipynb
+..    tutorial_notebooks/DL2/deep_probabilistic_models_II/tutorial_2b.ipynb
+..    tutorial_notebooks/DL2/Advanced_Generative_Models/Normalizing_flows/advancednormflow.ipynb
+..    tutorial_notebooks/DL2/High-performant_DL/hyperparameter_search/hpdlhyperparam.ipynb
+..    tutorial_notebooks/DL2/High-performant_DL/Multi_GPU/hpdlmultigpu.ipynb
+..    tutorial_notebooks/DL2/Bayesian_Neural_Networks/Complete_DLII_BNN_2_2.ipynb
+..    tutorial_notebooks/DL2/Dynamical_Neural_Networks/Complete_DNN_2_1.ipynb
+..    tutorial_notebooks/DL2/Dynamical_Neural_Networks/Complete_DNN_2_2.ipynb
+..    tutorial_notebooks/DL2/Dynamical_systems/dynamical_systems_neural_odes.ipynb
+..    tutorial_notebooks/DL2/sampling/introduction.ipynb
+..    tutorial_notebooks/DL2/sampling/subsets.ipynb
+..    tutorial_notebooks/DL2/sampling/permutations.ipynb
+..    tutorial_notebooks/DL2/sampling/graphs.ipynb
 
