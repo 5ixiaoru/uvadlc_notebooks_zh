@@ -3,7 +3,6 @@ docs/_build/
 docs/tutorial_notebooks/data
 docs/tutorial_notebooks/saved_models
 docs/tutorial_notebooks/.idea
-*.py
 docs/tutorial_notebooks/tutorial9/tensorboard
 docs/tutorial_notebooks/JAX/tutorial9/tensorboard
 docs/tutorial_notebooks/tutorial11/*.py
