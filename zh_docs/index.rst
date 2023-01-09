@@ -105,7 +105,7 @@ Schedule (Deep Learning 1, edition 2022)
 
 
 .. toctree::
-   :caption: Guides
+   :caption: 指南
    :maxdepth: 2
 
    tutorial_notebooks/tutorial1/Lisa_Cluster
