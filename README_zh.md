@@ -1,12 +1,11 @@
 欢迎一起学习UVA深度学习教程!
 ===========================================
 
-*Course website*: https://uvadlc.github.io/  
-*Course edition*: DL1 - Fall 2022, DL2 - Spring 2022, Being kept up to date  
-*Repository*: https://github.com/phlippe/uvadlc_notebooks  
-*Recordings*: [YouTube Playlist](https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)
-*Author*: Phillip Lippe  
-*Translator*: Jun Liang  
+*课程网站*: https://uvadlc.github.io/  
+*notebooks链接*: https://github.com/phlippe/uvadlc_notebooks  
+*视频链接*: [YouTube Playlist](https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)
+*作者*: Phillip Lippe  
+*译者*: Jun Liang  
 
 有兴趣学习 JAX 吗？ 我们最近开始将笔记本从 **PyTorch** 翻译成 **JAX+Flax**。 在**深度学习 1 (JAX+Flax)** 选项卡中查看我们的新笔记本，了解如何使用 JAX 加速模型训练！
 
